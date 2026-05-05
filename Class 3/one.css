@@ -1,0 +1,10 @@
+a {
+    background-color: bisque;
+    color:blueviolet;
+}
+a[target]{
+    background-color: darkseagreen;
+}
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
